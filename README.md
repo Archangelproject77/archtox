@@ -1,2 +1,2 @@
 # archtox
-Secure chat app using tox protocol and base on toxygen with some mod :)
+Secure chat app using tox protocol, base on toxygen with some mod :)
